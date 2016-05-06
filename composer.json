@@ -9,10 +9,10 @@
   ],
   "extra": {
     "name": "image",
-    "class": "Creonit\\Propel\\Behavior\\ImageBehavior"
+    "class": "Creonit\\Propel\\Behavior\\Image\\ImageBehavior"
   },
   "license": "GNU GPLv3",
   "psr-4": {
-    "Creonit\\Propel\\Behavior\\": "src"
+    "Creonit\\Propel\\Behavior\\Image\\": "src"
   }
 }
