@@ -12,7 +12,9 @@
     "class": "Creonit\\Propel\\Behavior\\Image\\ImageBehavior"
   },
   "license": "GNU GPLv3",
-  "psr-4": {
-    "Creonit\\Propel\\Behavior\\Image\\": "src"
+  "autoload": {
+    "psr-4": {
+      "Creonit\\Propel\\Behavior\\Image\\": "src"
+    }
   }
 }
