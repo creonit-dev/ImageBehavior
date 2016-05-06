@@ -1,0 +1,14 @@
+{
+  "name": "creonit/propel-image-behavior",
+  "type": "propel-behavior",
+  "keywords": [
+    "creonit",
+    "symfony",
+    "propel",
+    "behavior"
+  ],
+  "license": "GNU GPLv3",
+  "psr-4": {
+    "Creonit\\Propel\\Behavior\\": "src"
+  }
+}
