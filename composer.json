@@ -9,12 +9,7 @@
   ],
   "extra": {
     "name": "image",
-    "class": "Creonit\\Propel\\Behavior\\Image\\ImageBehavior"
+    "class": "Creonit\\PropelBehaviorBundle\\Image\\ImageBehavior"
   },
-  "license": "GNU GPLv3",
-  "autoload": {
-    "psr-4": {
-      "Creonit\\Propel\\Behavior\\Image\\": "src"
-    }
-  }
+  "license": "GNU GPLv3"
 }
