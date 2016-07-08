@@ -1,6 +1,6 @@
 <?php
 
-namespace Creonit\PropelImageBehavior\Image;
+namespace Creonit\PropelImageBehavior;
 
 use Propel\Generator\Model\Behavior;
 use Propel\Generator\Model\ForeignKey;
