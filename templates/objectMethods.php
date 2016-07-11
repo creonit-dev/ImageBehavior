@@ -1,6 +1,6 @@
 <?php
 
-    foreach($columns as $column){
+    foreach($columns as $column):
         $column = $table->getColumn(trim($column));
 ?>
 
@@ -9,6 +9,6 @@ public function get<?php print preg_replace('/Id$/', 'Url', $column->getPhpName(
 }
 
 
-<?
-    }
+<?php
+    endforeach;
 ?>
